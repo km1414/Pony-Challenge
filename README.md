@@ -1,6 +1,6 @@
 # Pony-Challenge
 
-<img src="/data/pony_saved.gif" height="200" align="middle"/>
+<center><img src="/data/pony_saved.gif" height="200" align="middle"/></center>
 
 Pythonic approach to solve the [Pony-Challenge](https://ponychallenge.trustpilot.com/index.html) from Trustpilot. 
 Recursively solves the maze and leads pony to the exit.
