@@ -10,6 +10,8 @@ Recursively solves the maze and leads pony to the exit.**
 
 ### Setup:
 ```
+git clone https://github.com/km1414/Pony-Challenge.git
+cd Pony-Challenge
 pip3 install -r requirements.txt
 ```
 
@@ -18,6 +20,6 @@ pip3 install -r requirements.txt
 # default settings
 python3 main.py
 
-# changed settings example
+# changed settings
 python3 main.py --width 20 --height 18 --difficulty 8 --name Fluttershy
 ```
