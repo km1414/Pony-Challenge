@@ -1,8 +1,8 @@
 # Pony-Challenge
 
-<img src="/data/pony_saved.gif" height="200"/>
+<img src="/data/pony_saved.gif" height="200" align="middle"/>
 
-Python approach to solve the [Pony-Challenge](https://ponychallenge.trustpilot.com/index.html) from Trustpilot. 
+Pythonic approach to solve the [Pony-Challenge](https://ponychallenge.trustpilot.com/index.html) from Trustpilot. 
 Recursively solves the maze and leads pony to the exit.
 
 ***TODO:** add feature for avoiding Domokun. Since in lower difficulty levels Domokun walks pretty randomly,
